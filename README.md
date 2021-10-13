@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 A Website that offers fitness training services.
@@ -13,3 +13,6 @@ https://sjonathan85.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Sjon Christensen
+
+
+### ©️2019 Run Buddy, Inc
