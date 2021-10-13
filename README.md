@@ -1,15 +1,15 @@
 # Run Buddy
 
-##Purpose
+## Purpose
 A Website that offers fitness training services.
 
-##Built with
-*HTML
-*CSS
+## Built with
+* HTML
+* CSS
 
-##Website
+## Website
 
 https://sjonathan85.github.io/run-buddy/
 
-##Contribution
+## Contribution
 Made with ❤️ by Sjon Christensen
